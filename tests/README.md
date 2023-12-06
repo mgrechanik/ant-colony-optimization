@@ -13,3 +13,6 @@ cd ..
 ./vendor/bin/phpunit
 ```
 
+## Nowadays we have this coverage
+
+![Coverage](https://raw.githubusercontent.com/mgrechanik/ant-colony-optimization/main/docs/coverage.jpg "Coverage")

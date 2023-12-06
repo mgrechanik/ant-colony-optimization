@@ -39,12 +39,12 @@
 
 ## Демо <span id="demo"></span>
 
-Определение точек по стратегии ```DifferentColorsStrategy``` , **Рисунок 1**:
-![Определение точек на изображении](https://raw.githubusercontent.com/mgrechanik/yii2-categories-and-tags/master/docs/images/categories.png "Определение точек на изображении")
+Решение задачи коммивояжера с помощью ACO:
+![Решение задачи коммивояжера с помощью ACO](https://raw.githubusercontent.com/mgrechanik/ant-colony-optimization/main/docs/dots.jpg "Решение задачи коммивояжера с помощью ACO")
 
 
-Определение точек по стратегии ```ChoosenColorStrategy``` , **Рисунок 2**:
-![Определение точек на изображении](https://raw.githubusercontent.com/mgrechanik/yii2-categories-and-tags/master/docs/images/categories.png "Определение точек на изображении карты США")
+Второй пример:
+![Решение задачи коммивояжера с помощью ACO на карте США](https://raw.githubusercontent.com/mgrechanik/image-points-searcher/main/docs/second.jpg "Решение задачи коммивояжера с помощью ACO на карте США")
 
 	
 ---
