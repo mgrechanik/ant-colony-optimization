@@ -9,10 +9,9 @@ After you cloned this repository, go to it's root and run `composer update`. Doi
 The last thing to do is to run tests. You run them from the root directory.
 
 ```
-cd ..
 ./vendor/bin/phpunit
 ```
 
-## Nowadays we have this coverage
+## Nowadays we have this code coverage:
 
 ![Coverage of phpunit tests for this library](https://github.com/mgrechanik/ant-colony-optimization/blob/main/docs/coverage.png "Coverage")
