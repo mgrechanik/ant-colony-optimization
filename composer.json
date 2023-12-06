@@ -1,11 +1,11 @@
 {
     "name": "mgrechanik/ant-colony-optimization",
-    "description": "Implementation of the Ant colony optimization algorithm",
+    "description": "The implementation of the Ant colony optimization algorithm",
     "type": "library",
-    "keywords": ["Ant colony optimization", "Travelling salesman problem", "Shortest path problem", "tsp", 
+    "keywords": ["Ant colony optimization", "Travelling salesman problem", "Shortest path problem", "aco", "tsp", 
         "Asymmetric travelling salesman problem", "Symmetric travelling salesman problem", "Constrained Shortest Path First",
         "Optimization method", "Optimization algorithm", "Search algorithm", "Artificial ants", "model-based search",
-        "php"],
+        "shortest paths", "path planning", "graph", "php"],
     "license": "BSD-3-Clause",
     "autoload": {
         "psr-4": {
