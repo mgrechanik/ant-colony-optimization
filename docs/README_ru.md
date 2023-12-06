@@ -40,7 +40,7 @@
 ## Демо <span id="demo"></span>
 
 Решение задачи коммивояжера с помощью ACO:
-![Решение задачи коммивояжера с помощью ACO](https://raw.githubusercontent.com/mgrechanik/ant-colony-optimization/main/docs/dots.jpg "Решение задачи коммивояжера с помощью ACO")
+![Решение задачи коммивояжера с помощью ACO из данной библиотеки](https://raw.githubusercontent.com/mgrechanik/ant-colony-optimization/main/docs/dots.jpg "Решение задачи коммивояжера с помощью ACO")
 
 
 Второй пример:

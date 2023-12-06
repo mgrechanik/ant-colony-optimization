@@ -39,11 +39,11 @@ Amount of ants, all coefficients and parameters could be [changed](#settings) to
 ## Demo <span id="demo"></span>
 
 Solving the travelling salesman problem with the ant colony optimization algorithm:
-![Using ACO to solve the travelling salesman problemи](https://raw.githubusercontent.com/mgrechanik/ant-colony-optimization/main/docs/dots.jpg "Using ACO to solve Travelling salesman problem")
+![Using this ACO library to solve the travelling salesman problem](https://raw.githubusercontent.com/mgrechanik/ant-colony-optimization/main/docs/dots.jpg "Using ACO to solve Travelling salesman problem")
 
 
 Another example:
-![Using ACO to find the path for travelling salesmanon USA map image](https://raw.githubusercontent.com/mgrechanik/image-points-searcher/main/docs/second.jpg "Using ACO to find the path for travelling salesmanon USA map image")
+![Using this ACO library to find the path for travelling salesmanon USA map image](https://raw.githubusercontent.com/mgrechanik/image-points-searcher/main/docs/second.jpg "Using ACO to find the path for travelling salesmanon USA map image")
 
 	
 ---
@@ -371,7 +371,7 @@ An Algorithm is probabilistic, ants travel differently each new search. A lot de
 
 ## TSPLIB95 <span id="tsplib95"></span>
 
-The [TSPLIB95](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/) library ships with a lot of ```Travelling salesman problems``` - initial data and solutions - best results ever found for these tasks ([paths](#tsplib95 "The best paths are located in corresponding name.opt.tour file") and [distances](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/STSP.html "Here you can see best distances ever found")).
+The [TSPLIB95](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/) library ships with a lot of ```Travelling salesman problems``` - initial data and solutions - best results ever found for these tasks ([paths](#tsplib95 "The best paths are located in the corresponding name.opt.tour file") and [distances](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/STSP.html "Here you can see the best distances ever found")).
 
 The library is valuable that with it's data we could test the efficiency of our algorithms, coefficients and parameters.
 
@@ -427,7 +427,7 @@ When graph is loaded like ```Cities``` with their coordinated, this information 
 
 #### ```Task``` - The task we are solving on the graph. For example it could be  ```"Travelling salesman problem"``` or ```"Shortest path problem"```. Or other.
 
-#### ```TSP``` - Travelling salesman problem. With this library we can solve both symmetric and ssymmetric types of tsp
+#### ```TSP``` - Travelling salesman problem. With this library we can solve both symmetric and asymmetric types of tsp
 
 #### ```Manager``` -  The manager which task is to form adjacency matrix , give it to ```Finder``` to solve ```Task```.
 
