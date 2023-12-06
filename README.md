@@ -427,6 +427,8 @@ When graph is loaded like ```Cities``` with their coordinated, this information 
 
 #### ```Task``` - The task we are solving on the graph. For example it could be  ```"Travelling salesman problem"``` or ```"Shortest path problem"```. Or other.
 
+#### ```TSP``` - Travelling salesman problem. With this library we can solve both symmetric and ssymmetric types of tsp
+
 #### ```Manager``` -  The manager which task is to form adjacency matrix , give it to ```Finder``` to solve ```Task```.
 
 #### ```Iteration``` - The iteration during which all ants find one path and put pheromones on it. We set amount of iterations themselves.

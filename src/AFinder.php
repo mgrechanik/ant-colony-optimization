@@ -6,7 +6,6 @@
  * @license https://github.com/mgrechanik/ant-colony-optimization/blob/main/LICENSE.md
  * @link https://github.com/mgrechanik/ant-colony-optimization
  */
-
 declare(strict_types=1); 
 
 namespace mgrechanik\aco;
@@ -18,7 +17,6 @@ use mgrechanik\aco\classic\Node;
 /**
  * Basic ACO Finder.
  * 
- * All coefficients are described in the Wiki
  */
 abstract class AFinder
 {
