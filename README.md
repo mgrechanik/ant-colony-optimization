@@ -38,12 +38,12 @@ Amount of ants, all coefficients and parameters could be [changed](#settings) to
 
 ## Demo <span id="demo"></span>
 
-Определение точек по стратегии ```DifferentColorsStrategy``` , **Рисунок 1**:
-![Определение точек на изображении](https://raw.githubusercontent.com/mgrechanik/yii2-categories-and-tags/master/docs/images/categories.png "Определение точек на изображении")
+Solving Travelling salesman problem with Ant colony optimization algorithm:
+![Using ACO to solve Travelling salesman problemи](https://raw.githubusercontent.com/mgrechanik/ant-colony-optimization/main/docs/dots.jpg "Using ACO to solve Travelling salesman problem")
 
 
-Определение точек по стратегии ```ChoosenColorStrategy``` , **Рисунок 2**:
-![Определение точек на изображении](https://raw.githubusercontent.com/mgrechanik/yii2-categories-and-tags/master/docs/images/categories.png "Определение точек на изображении карты США")
+Another example:
+![Using ACO to find the path for travelling salesmanon USA map image](https://raw.githubusercontent.com/mgrechanik/image-points-searcher/main/docs/second.jpg "Using ACO to find the path for travelling salesmanon USA map image")
 
 	
 ---
