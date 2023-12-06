@@ -1,6 +1,6 @@
 # PHPUnit tests for Ant colony optimization library
 
-## Installing and configuring
+## Installing 
 
 After you cloned this repository, go to it's root and run `composer update`. Doing this you will have PHPUnit installed.
 
@@ -15,4 +15,4 @@ cd ..
 
 ## Nowadays we have this coverage
 
-![Coverage](https://raw.githubusercontent.com/mgrechanik/ant-colony-optimization/main/docs/coverage.jpg "Coverage")
+![Coverage of phpunit tests for this library](https://github.com/mgrechanik/ant-colony-optimization/blob/main/docs/coverage.png "Coverage")
