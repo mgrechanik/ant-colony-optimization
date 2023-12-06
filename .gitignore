@@ -1,0 +1,8 @@
+/vendor
+/phpunit.xml
+
+# PHPUnit
+/.phpunit.cache
+.phpunit.result.cache
+
+nbproject

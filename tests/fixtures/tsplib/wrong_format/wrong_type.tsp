@@ -1,0 +1,4 @@
+NAME: berlin52
+TYPE: NOTSP
+1
+2

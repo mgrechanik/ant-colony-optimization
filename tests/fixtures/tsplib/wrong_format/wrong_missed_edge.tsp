@@ -1,0 +1,4 @@
+NAME: berlin52
+TYPE: TSP
+1
+2
