@@ -6,7 +6,7 @@ After you cloned this repository, go to it's root and run `composer update`. Doi
 
 ## Running tests
 
-The last thing to do is to run tests. You run them from the root directory.
+You run tests from the root directory.
 
 ```
 ./vendor/bin/phpunit
