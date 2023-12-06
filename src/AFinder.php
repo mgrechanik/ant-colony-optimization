@@ -16,7 +16,6 @@ use mgrechanik\aco\classic\Node;
 
 /**
  * Basic ACO Finder.
- * 
  */
 abstract class AFinder
 {

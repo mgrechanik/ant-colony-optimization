@@ -11,11 +11,11 @@ declare(strict_types=1);
 namespace mgrechanik\aco;
 
 /**
- * This task solves Travelling salesman problem.
+ * This task solves the Travelling salesman problem.
  * 
  * Ant should start from node A, visit all nodes and return to A.
  * 
- * It solves both Asymmetric and Symmetric type of TSP
+ * It solves both Asymmetric and Symmetric types of TSP
  */
 class TspTask extends Task
 {

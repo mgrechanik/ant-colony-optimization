@@ -11,16 +11,16 @@ declare(strict_types=1);
 namespace mgrechanik\aco;
 
 /**
- * Task we are solving
+ * The task we are solving
  * 
  * For example we can be solving 
  *   - Travelling salesman problem  (1)
  *   - Shortest path problem.       (2)
  *   - Constrained Shortest Path First
  *    
- *     (1) and (2) are implemented in the library
+ *     (1) and (2) are implemented in this library
  * 
- * You can create the task you need to solve with ACO on adjacency matrix
+ * You can create the task you need to solve it with ACO of this library
  */
 abstract class Task
 {
