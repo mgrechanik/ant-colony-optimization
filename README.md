@@ -39,7 +39,7 @@ Amount of ants, all coefficients and parameters could be [changed](#settings) to
 ## Demo <span id="demo"></span>
 
 Solving the travelling salesman problem with the ant colony optimization algorithm:
-![Using this ACO library to solve the travelling salesman problem](https://raw.githubusercontent.com/mgrechanik/ant-colony-optimization/main/docs/dots.jpg "Using this ACO library to solve the travelling salesman problemm")
+![Using this ACO library to solve the travelling salesman problem](https://raw.githubusercontent.com/mgrechanik/ant-colony-optimization/main/docs/dots.jpg "Using this ACO library to solve the travelling salesman problem")
 
 
 Another example:
