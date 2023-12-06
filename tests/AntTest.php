@@ -3,7 +3,7 @@
  * This file is part of the mgrechanik/ant-colony-optimization library
  *
  * @copyright Copyright (c) Mikhail Grechanik <mike.grechanik@gmail.com>
- * @license https://github.com/mgrechanik/ant-colony-optimization/blob/main/LICENCE.md
+ * @license https://github.com/mgrechanik/ant-colony-optimization/blob/main/LICENSE.md
  * @link https://github.com/mgrechanik/ant-colony-optimization
  */
 

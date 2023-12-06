@@ -38,8 +38,8 @@ Amount of ants, all coefficients and parameters could be [changed](#settings) to
 
 ## Demo <span id="demo"></span>
 
-Solving Travelling salesman problem with Ant colony optimization algorithm:
-![Using ACO to solve Travelling salesman problemи](https://raw.githubusercontent.com/mgrechanik/ant-colony-optimization/main/docs/dots.jpg "Using ACO to solve Travelling salesman problem")
+Solving the travelling salesman problem with the ant colony optimization algorithm:
+![Using ACO to solve the travelling salesman problemи](https://raw.githubusercontent.com/mgrechanik/ant-colony-optimization/main/docs/dots.jpg "Using ACO to solve Travelling salesman problem")
 
 
 Another example:
