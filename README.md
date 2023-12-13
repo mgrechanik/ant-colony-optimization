@@ -20,7 +20,7 @@
 
 The Ant colony optimization is a probabilistic technique for solving computational problems which can be reduced to finding good paths through graphs (from Wikipedia).
 
-The task we are solving could be either "Travelling salesman problem" or "Shortest path problem", or Constrained Shortest Path First, etc.  
+The task we are solving could be either "[Travelling salesman problem](#tsp-example 'Code example of solving TSP with ACO')" or "[Shortest path problem](#spp-example 'Code example of solving SPP with ACO')", or Constrained Shortest Path First, etc.  
 The two first tasks are solved within this library.
 
 There are a lot of strategies and variations of Classic ACO algorithm.  
@@ -43,7 +43,7 @@ Solving the travelling salesman problem with the ant colony optimization algorit
 
 
 Another example:
-![Using this ACO library to find the path for travelling salesmanon USA map image](https://raw.githubusercontent.com/mgrechanik/image-points-searcher/main/docs/second.jpg "Using ACO to find the path for the travelling salesman on the USA map image")
+![Using this ACO library to find the path for travelling salesman on the USA map image](https://raw.githubusercontent.com/mgrechanik/image-points-searcher/main/docs/second.jpg "Using ACO to find the path for the travelling salesman on the USA map image")
 
 	
 ---
@@ -121,7 +121,7 @@ $path = $manager->getNamedPath()
 
 ### Examples
 
-#### Solving "Travelling salesman problem" with Classic ACO
+#### Solving "Travelling salesman problem" with Classic ACO  <span id="tsp-example"></span> 
 ```php
 use mgrechanik\aco\Manager;
 
@@ -151,7 +151,7 @@ Array
 ) 
 ```
 
-#### Solving "Shortest path problem" with Classic ACO
+#### Solving "Shortest path problem" with Classic ACO <span id="spp-example"></span> 
 
 ```php
 use mgrechanik\aco\Manager;
@@ -417,7 +417,7 @@ $manager->setMatrix($matrix, 1);
 #### ```Nodes``` - Nodes or vertices or cities. Ants travel between them.
 
 #### ```Adjacency Matrix``` - Adjacency Matrix sets the distances between graph nodes. It is a basic structure our algorithm starts work with.
-When graph is loaded like ```Cities``` with their coordinated, this information will be converted to Adjacency Matrix
+When graph is loaded like ```Cities``` with their coordinates, this information will be converted to Adjacency Matrix
 
 #### ```Classic Finder``` - Finder who implements Classic ACO algorithm
 
