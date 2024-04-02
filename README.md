@@ -236,7 +236,7 @@ $manager->run();
 var_dump($finder->getHistory());
 ```
 
-#### Loadind a list of cities from an image file
+#### Loading a list of cities from an image file
 
 With the use of [this library](https://github.com/mgrechanik/image-points-searcher  "library to search for points on image") we can load a list of cities from the image. And the result of the search could be displayed on the image too. It will look like images on [Demo](#demo "the images we get this way").
 
