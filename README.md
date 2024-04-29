@@ -34,6 +34,8 @@ The work of library had been tested with [TSPLIB95](#tsplib95) data sets, so we 
 
 Amount of ants, all coefficients and parameters could be [changed](#settings) to your need.
 
+Now we have [a web app](https://github.com/mgrechanik/aco-workshop-for-tsp "Ant colony optimization workshop for solving a travelling salesman problem") which you can install and run locally to practice with this algorithm. Look for it's video demo for details.
+
 ---
 
 ## Demo <span id="demo"></span>
